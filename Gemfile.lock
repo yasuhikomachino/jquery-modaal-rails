@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    jquery-modaal-rails (0.4.4)
+    jquery-modaal-rails (0.4.4.1)
       rails
 
 GEM
